@@ -1,6 +1,7 @@
 package tests;
 
 
+import models.User;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -44,10 +45,11 @@ public class LoginTests extends TestBase
 
     public void loginSuccessNew(){
         //open Login form
+        User user = new User().withEmail("anna789@gmail.com").withPassword("Aanna12345$$");
         app.getHelperUser().openLoginRegistrationForm();
 
         //fill email and password
-        app.getHelperUser().fillLoginRegistrationForm("anna789@gmail.com","Aanna12345$$");
+        app.getHelperUser().fillLoginRegistrationForm(user);
         app.getHelperUser().submitLogin();
         app.getHelperUser().pause(1000);
         Assert.assertTrue(app.getHelperUser().isLoginRegistrationSuccess());
@@ -57,13 +59,28 @@ public class LoginTests extends TestBase
 
     public void loginSuccess(){
         //open Login form
+        User user = new User().withEmail("anna789@gmail.com").withPassword("Aanna12345$$");
         app.getHelperUser().openLoginRegistrationForm();
 
         //fill email and password
-        app.getHelperUser().fillLoginRegistrationForm("anna789@gmail.com","Aanna12345$$");
+        app.getHelperUser().fillLoginRegistrationForm(user);
         app.getHelperUser().submitLogin();
         app.getHelperUser().pause(1000);
         Assert.assertTrue(app.getHelperUser().isLoginRegistrationSuccess());
+    }
+
+    @Test
+
+    public void loginNegativeWrongPassword(){
+        User user = new User().withEmail("anna789@gmail.com").withPassword("Aanna");
+        app.getHelperUser().openLoginRegistrationForm();
+        app.getHelperUser().fillLoginRegistrationForm(user);
+        app.getHelperUser().submitLogin();
+        Assert.assertFalse(app.getHelperUser().isLoginRegistrationSuccess());
+        Assert.assertTrue(app.getHelperUser().isAlertDisplayed());
+        Assert.assertTrue(app.getHelperUser().isErrorWrongFormat());
+
+
     }
 //    @AfterMethod
 //
