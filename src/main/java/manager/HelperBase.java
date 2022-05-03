@@ -1,8 +1,10 @@
 package manager;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import com.google.common.io.Files;
+import org.openqa.selenium.*;
+
+import java.io.File;
+import java.io.IOException;
 
 public class HelperBase {
     WebDriver wd;
@@ -10,6 +12,7 @@ public class HelperBase {
     public HelperBase(WebDriver wd) {
         this.wd = wd;
     }
+
 
     public void type(By locator, String text) {
         if (text != null) {
@@ -36,5 +39,13 @@ public class HelperBase {
             e.printStackTrace();
         }
     }
-
+    public void takeScreenShot(String pathToFile) {
+        File tmp = ((TakesScreenshot)wd).getScreenshotAs(OutputType.FILE);
+        File screenshot = new File(pathToFile);
+        try{
+            Files.copy(tmp, screenshot);
+        } catch (IOException e){
+            e.printStackTrace();
+        }
+    }
 }

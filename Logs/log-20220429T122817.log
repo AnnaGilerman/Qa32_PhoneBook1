@@ -1,0 +1,48 @@
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] 2045031788
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.tearDown()[pri:0, instance:null] -475375085
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ADDING NODE LoginTests.preCondition()[pri:0, instance:null] 657573916
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:tests.LoginTests@1d61c8f6] -535576310
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ADDING NODE LoginTests.loginSuccess()[pri:0, instance:tests.LoginTests@1d61c8f6] 1391983224
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ADDING NODE LoginTests.loginNegativeWrongPassword()[pri:0, instance:tests.LoginTests@1d61c8f6] -1505668216
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ADDING NODE LoginTests.loginSuccessNew(java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTests@1d61c8f6] 1493963892
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ADDING NODE LoginTests.loginModelDataProviderCSV(models.User)[pri:0, instance:tests.LoginTests@1d61c8f6] 588590537
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ADDING NODE LoginTests.loginModelDataProvider(models.User)[pri:0, instance:tests.LoginTests@1d61c8f6] -263489255
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.tearDown()[pri:0, instance:tests.LoginTests@1d61c8f6] -1358778045
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+12:28:17  DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+12:28:18  INFO  manager.ApplicationManager - Tests start in ChromeDriver
+12:28:19  INFO  manager.ApplicationManager - The link is ----> https://contacts-app.tobbymarshall815.vercel.app/
+12:28:19  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+12:28:24  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
+12:28:24  INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [href='/login']
+12:28:24  INFO  manager.MyListener - The element with locator --->By.cssSelector: [href='/login']<----- was found
+12:28:24  INFO  manager.MyListener - 'Start find' element --->By.xpath: //input[1]
+12:28:24  INFO  manager.MyListener - The element with locator --->By.xpath: //input[1]<----- was found
+12:28:24  INFO  manager.MyListener - 'Start find' element --->By.xpath: //input[2]
+12:28:24  INFO  manager.MyListener - The element with locator --->By.xpath: //input[2]<----- was found
+12:28:25  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Login']
+12:28:25  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Login']<----- was found
+12:28:25  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+12:28:25  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found

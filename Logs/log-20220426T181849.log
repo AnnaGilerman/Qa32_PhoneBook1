@@ -1,0 +1,78 @@
+18:18:52  INFO  manager.ApplicationManager - Tests start in ChromeDriver
+18:18:52  INFO  manager.ApplicationManager - The link is ----> https://contacts-app.tobbymarshall815.vercel.app/
+18:18:53  INFO  manager.ApplicationManager - Tests start in ChromeDriver
+18:18:54  INFO  manager.ApplicationManager - The link is ----> https://contacts-app.tobbymarshall815.vercel.app/
+18:18:54  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+18:18:59  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
+18:18:59  INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [href='/login']
+18:18:59  INFO  manager.MyListener - The element with locator --->By.cssSelector: [href='/login']<----- was found
+18:18:59  INFO  manager.MyListener - 'Start find' element --->By.xpath: //input[1]
+18:18:59  INFO  manager.MyListener - The element with locator --->By.xpath: //input[1]<----- was found
+18:18:59  INFO  manager.MyListener - 'Start find' element --->By.xpath: //input[2]
+18:18:59  INFO  manager.MyListener - The element with locator --->By.xpath: //input[2]<----- was found
+18:18:59  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Login']
+18:18:59  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Login']<----- was found
+18:18:59  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+18:19:00  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
+18:19:01  INFO  manager.ApplicationManager - Tests start in ChromeDriver
+18:19:02  INFO  manager.ApplicationManager - The link is ----> https://contacts-app.tobbymarshall815.vercel.app/
+18:19:02  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+18:19:07  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
+18:19:07  INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [href='/login']
+18:19:07  INFO  manager.MyListener - The element with locator --->By.cssSelector: [href='/login']<----- was found
+18:19:07  INFO  manager.MyListener - 'Start find' element --->By.xpath: //input[1]
+18:19:07  INFO  manager.MyListener - The element with locator --->By.xpath: //input[1]<----- was found
+18:19:07  INFO  manager.MyListener - 'Start find' element --->By.xpath: //input[2]
+18:19:07  INFO  manager.MyListener - The element with locator --->By.xpath: //input[2]<----- was found
+18:19:07  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Login']
+18:19:07  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Login']<----- was found
+18:19:07  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+18:19:08  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
+18:19:09  INFO  manager.ApplicationManager - Tests start in ChromeDriver
+18:19:09  INFO  manager.ApplicationManager - The link is ----> https://contacts-app.tobbymarshall815.vercel.app/
+18:19:09  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+18:19:11  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
+18:19:11  INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [href='/login']
+18:19:11  INFO  manager.MyListener - We have a 'throwable'---->no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62226}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 965ad662c5df780669aabb534d63e748
+*** Element info: {Using=css selector, value=[href='/login']}
+18:19:11  INFO  manager.MyListener - We have a 'throwable'---->org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62226}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 965ad662c5df780669aabb534d63e748
+*** Element info: {Using=css selector, value=[href='/login']}
+18:19:11  INFO  manager.MyListener - We have a 'throwable'---->[Ljava.lang.StackTraceElement;@417874db
+18:19:12  INFO  manager.ApplicationManager - Tests start in ChromeDriver
+18:19:13  INFO  manager.ApplicationManager - The link is ----> https://contacts-app.tobbymarshall815.vercel.app/
+18:19:13  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+18:19:13  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
+18:19:13  INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [href='/login']
+18:19:13  INFO  manager.MyListener - We have a 'throwable'---->no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62241}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 210925e09f57eaa9b61ba1cc2f502437
+*** Element info: {Using=css selector, value=[href='/login']}
+18:19:13  INFO  manager.MyListener - We have a 'throwable'---->org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62241}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 210925e09f57eaa9b61ba1cc2f502437
+*** Element info: {Using=css selector, value=[href='/login']}
+18:19:13  INFO  manager.MyListener - We have a 'throwable'---->[Ljava.lang.StackTraceElement;@2ef0801d

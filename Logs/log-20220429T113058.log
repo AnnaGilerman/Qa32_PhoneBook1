@@ -1,0 +1,198 @@
+11:31:00  INFO  manager.ApplicationManager - Tests start in ChromeDriver
+11:31:00  INFO  manager.ApplicationManager - The link is ----> https://contacts-app.tobbymarshall815.vercel.app/
+11:31:00  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+11:31:05  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
+11:31:05  INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [href='/login']
+11:31:05  INFO  manager.MyListener - The element with locator --->By.cssSelector: [href='/login']<----- was found
+11:31:05  INFO  manager.MyListener - 'Start find' element --->By.xpath: //input[1]
+11:31:05  INFO  manager.MyListener - The element with locator --->By.xpath: //input[1]<----- was found
+11:31:06  INFO  manager.MyListener - 'Start find' element --->By.xpath: //input[2]
+11:31:06  INFO  manager.MyListener - The element with locator --->By.xpath: //input[2]<----- was found
+11:31:06  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Login']
+11:31:06  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Login']<----- was found
+11:31:06  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+11:31:06  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
+11:31:06  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+11:31:06  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
+11:31:06  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+11:31:06  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
+11:31:06  INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [href='/login']
+11:31:06  INFO  manager.MyListener - The element with locator --->By.cssSelector: [href='/login']<----- was found
+11:31:07  INFO  manager.MyListener - 'Start find' element --->By.xpath: //input[1]
+11:31:07  INFO  manager.MyListener - The element with locator --->By.xpath: //input[1]<----- was found
+11:31:07  INFO  manager.MyListener - 'Start find' element --->By.xpath: //input[2]
+11:31:07  INFO  manager.MyListener - The element with locator --->By.xpath: //input[2]<----- was found
+11:31:07  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Login']
+11:31:07  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Login']<----- was found
+11:31:07  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+11:31:07  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
+11:31:07  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+11:31:07  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
+11:31:07  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+11:31:07  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
+11:31:07  INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [href='/login']
+11:31:07  INFO  manager.MyListener - The element with locator --->By.cssSelector: [href='/login']<----- was found
+11:31:07  INFO  manager.MyListener - 'Start find' element --->By.xpath: //input[1]
+11:31:07  INFO  manager.MyListener - The element with locator --->By.xpath: //input[1]<----- was found
+11:31:07  INFO  manager.MyListener - 'Start find' element --->By.xpath: //input[2]
+11:31:07  INFO  manager.MyListener - The element with locator --->By.xpath: //input[2]<----- was found
+11:31:07  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Login']
+11:31:07  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Login']<----- was found
+11:31:07  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+11:31:07  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
+11:31:07  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+11:31:07  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
+11:31:07  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+11:31:07  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
+11:31:07  INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [href='/login']
+11:31:07  INFO  manager.MyListener - The element with locator --->By.cssSelector: [href='/login']<----- was found
+11:31:08  INFO  manager.MyListener - 'Start find' element --->By.xpath: //input[1]
+11:31:08  INFO  manager.MyListener - The element with locator --->By.xpath: //input[1]<----- was found
+11:31:08  INFO  manager.MyListener - 'Start find' element --->By.xpath: //input[2]
+11:31:08  INFO  manager.MyListener - The element with locator --->By.xpath: //input[2]<----- was found
+11:31:08  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Login']
+11:31:08  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Login']<----- was found
+11:31:08  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+11:31:08  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
+11:31:08  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+11:31:08  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
+11:31:08  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+11:31:08  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
+11:31:08  INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [href='/login']
+11:31:08  INFO  manager.MyListener - The element with locator --->By.cssSelector: [href='/login']<----- was found
+11:31:08  INFO  manager.MyListener - 'Start find' element --->By.xpath: //input[1]
+11:31:08  INFO  manager.MyListener - The element with locator --->By.xpath: //input[1]<----- was found
+11:31:08  INFO  manager.MyListener - 'Start find' element --->By.xpath: //input[2]
+11:31:08  INFO  manager.MyListener - The element with locator --->By.xpath: //input[2]<----- was found
+11:31:08  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()=' Login']
+11:31:08  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Login']<----- was found
+11:31:08  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+11:31:08  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
+11:31:08  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+11:31:08  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
+11:31:08  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+11:31:08  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
+11:31:09  INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [href='/login']
+11:31:09  INFO  manager.MyListener - The element with locator --->By.cssSelector: [href='/login']<----- was found
+11:31:09  INFO  manager.MyListener - 'Start find' element --->By.xpath: //input[1]
+11:31:09  INFO  manager.MyListener - The element with locator --->By.xpath: //input[1]<----- was found
+11:31:13  INFO  manager.MyListener - We have a 'throwable'---->chrome not reachable
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51956}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8af704f1377dd501042ca9778221eea5
+11:31:13  INFO  manager.MyListener - We have a 'throwable'---->org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51956}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8af704f1377dd501042ca9778221eea5
+11:31:13  INFO  manager.MyListener - We have a 'throwable'---->[Ljava.lang.StackTraceElement;@5707f433
+11:31:25  INFO  manager.MyListener - We have a 'throwable'---->chrome not reachable
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51956}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8af704f1377dd501042ca9778221eea5
+11:31:25  INFO  manager.MyListener - We have a 'throwable'---->org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51956}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8af704f1377dd501042ca9778221eea5
+11:31:25  INFO  manager.MyListener - We have a 'throwable'---->[Ljava.lang.StackTraceElement;@23c21493
+11:31:37  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+11:31:49  INFO  manager.MyListener - We have a 'throwable'---->chrome not reachable
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51956}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8af704f1377dd501042ca9778221eea5
+*** Element info: {Using=xpath, value=//*[text()='Sign Out']}
+11:31:49  INFO  manager.MyListener - We have a 'throwable'---->org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51956}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8af704f1377dd501042ca9778221eea5
+*** Element info: {Using=xpath, value=//*[text()='Sign Out']}
+11:31:49  INFO  manager.MyListener - We have a 'throwable'---->[Ljava.lang.StackTraceElement;@45ca110c
+11:32:02  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+11:32:14  INFO  manager.MyListener - We have a 'throwable'---->chrome not reachable
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51956}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8af704f1377dd501042ca9778221eea5
+*** Element info: {Using=xpath, value=//*[text()='Sign Out']}
+11:32:14  INFO  manager.MyListener - We have a 'throwable'---->org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51956}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8af704f1377dd501042ca9778221eea5
+*** Element info: {Using=xpath, value=//*[text()='Sign Out']}
+11:32:14  INFO  manager.MyListener - We have a 'throwable'---->[Ljava.lang.StackTraceElement;@4b8dc775
+11:32:26  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+11:32:38  INFO  manager.MyListener - We have a 'throwable'---->chrome not reachable
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51956}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8af704f1377dd501042ca9778221eea5
+*** Element info: {Using=xpath, value=//*[text()='Sign Out']}
+11:32:38  INFO  manager.MyListener - We have a 'throwable'---->org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51956}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8af704f1377dd501042ca9778221eea5
+*** Element info: {Using=xpath, value=//*[text()='Sign Out']}
+11:32:38  INFO  manager.MyListener - We have a 'throwable'---->[Ljava.lang.StackTraceElement;@4c361f23
+11:32:50  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+11:33:02  INFO  manager.MyListener - We have a 'throwable'---->chrome not reachable
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51956}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8af704f1377dd501042ca9778221eea5
+*** Element info: {Using=xpath, value=//*[text()='Sign Out']}
+11:33:02  INFO  manager.MyListener - We have a 'throwable'---->org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51956}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8af704f1377dd501042ca9778221eea5
+*** Element info: {Using=xpath, value=//*[text()='Sign Out']}
+11:33:02  INFO  manager.MyListener - We have a 'throwable'---->[Ljava.lang.StackTraceElement;@78d16c07
+11:33:15  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+11:33:27  INFO  manager.MyListener - We have a 'throwable'---->chrome not reachable
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51956}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8af704f1377dd501042ca9778221eea5
+*** Element info: {Using=xpath, value=//*[text()='Sign Out']}
+11:33:27  INFO  manager.MyListener - We have a 'throwable'---->org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5S6QGPI', ip: '192.168.1.119', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\alexa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51956}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8af704f1377dd501042ca9778221eea5
+*** Element info: {Using=xpath, value=//*[text()='Sign Out']}
+11:33:27  INFO  manager.MyListener - We have a 'throwable'---->[Ljava.lang.StackTraceElement;@2d339f7b

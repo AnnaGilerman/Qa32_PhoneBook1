@@ -21,6 +21,9 @@ public class RegistrationTests extends TestBase{
     public void registrationSuccess(){
 
         int index = (int)System.currentTimeMillis()/1000%3600;
+
+        logger.info("alex"+index+"@gmail.com");
+        logger.info("The index is ----> " + index);
         System.out.println(index);
 
         User user = new User().withEmail("alex" + index +"@gmail.com").withPassword("Aalex12345$$");

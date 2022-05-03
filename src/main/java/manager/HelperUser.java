@@ -19,12 +19,12 @@ public class HelperUser extends HelperBase{
     }
 
 
-//    public void fillLoginRegistrationForm(String email, String password) {
-//        //fill email
-//        type(By.xpath("//input[1]"),email);
-//        //fill password
-//        type(By.xpath("//input[2]"),password);
-//    }
+    public void fillLoginRegistrationForm(String email, String password) {
+        //fill email
+        type(By.xpath("//input[1]"),email);
+        //fill password
+        type(By.xpath("//input[2]"),password);
+    }
 
     public void fillLoginRegistrationForm(User user) {
         //fill email
@@ -74,8 +74,7 @@ public class HelperUser extends HelperBase{
         return error.contains("Wrong email or password format");
     }
 
-    public void logIn() {
-        User user = new User().withEmail("anna789@gmail.com").withPassword("Aanna12345$$");
+    public void logIn(User user) {
         openLoginRegistrationForm();
         fillLoginRegistrationForm(user);
         submitLogin();

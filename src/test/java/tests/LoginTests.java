@@ -1,15 +1,17 @@
 package tests;
 
 
+import manager.MyDataProvider;
 import models.User;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 
 public class LoginTests extends TestBase
 {
-    @BeforeMethod
+    @BeforeMethod(alwaysRun = true)
 
     public void preCondition(){
         if(app.getHelperUser().isSignOutPresent()){
@@ -41,20 +43,40 @@ public class LoginTests extends TestBase
 //
 //
 //    }
-    @Test
+    //@Test
 
-    public void loginSuccessNew(){
+    //public void loginSuccessNew1(){}
         //open Login form
-        User user = new User().withEmail("anna789@gmail.com").withPassword("Aanna12345$$");
+        @Test (dataProvider = "validLoginData", dataProviderClass = MyDataProvider.class)
+        public void loginSuccessNew(String email, String password){
+        logger.info("Test starts with email:"+ email +"and password:"+ password);
+
+      // User user = new User().withEmail("anna789@gmail.com").withPassword("Aanna12345$$");
         app.getHelperUser().openLoginRegistrationForm();
 
         //fill email and password
-        app.getHelperUser().fillLoginRegistrationForm(user);
+        app.getHelperUser().fillLoginRegistrationForm(email,password);
         app.getHelperUser().submitLogin();
         app.getHelperUser().pause(1000);
         Assert.assertTrue(app.getHelperUser().isLoginRegistrationSuccess());
+        logger.info("Test is passed");
     }
 
+    @Test(dataProvider = "validModelLogin", dataProviderClass = MyDataProvider.class)
+    public void loginModelDataProvider(User user){
+        app.getHelperUser().openLoginRegistrationForm();
+        app.getHelperUser().fillLoginRegistrationForm(user);
+        app.getHelperUser().submitLogin();
+        Assert.assertTrue(app.getHelperUser().isLoginRegistrationSuccess());
+    }
+
+    @Test(dataProvider = "validModelCSV", dataProviderClass = MyDataProvider.class)
+    public void loginModelDataProviderCSV(User user){
+        app.getHelperUser().openLoginRegistrationForm();
+        app.getHelperUser().fillLoginRegistrationForm(user);
+        app.getHelperUser().submitLogin();
+        Assert.assertTrue(app.getHelperUser().isLoginRegistrationSuccess());
+    }
     @Test
 
     public void loginSuccess(){
@@ -69,7 +91,7 @@ public class LoginTests extends TestBase
         Assert.assertTrue(app.getHelperUser().isLoginRegistrationSuccess());
     }
 
-    @Test
+    @Test(groups = {"web"})
 
     public void loginNegativeWrongPassword(){
         User user = new User().withEmail("anna789@gmail.com").withPassword("Aanna");

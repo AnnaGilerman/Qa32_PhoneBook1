@@ -1,0 +1,16 @@
+10:20:10  INFO  manager.ApplicationManager - Tests start in ChromeDriver
+10:20:11  INFO  manager.ApplicationManager - The link is ----> https://contacts-app.tobbymarshall815.vercel.app/
+10:20:11  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+10:20:16  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
+10:20:16  INFO  tests.TestBase - alex1774@gmail.com
+10:20:16  INFO  tests.TestBase - The index is ----> 1774
+10:20:16  INFO  manager.MyListener - 'Start find' element --->By.cssSelector: [href='/login']
+10:20:16  INFO  manager.MyListener - The element with locator --->By.cssSelector: [href='/login']<----- was found
+10:20:16  INFO  manager.MyListener - 'Start find' element --->By.xpath: //input[1]
+10:20:16  INFO  manager.MyListener - The element with locator --->By.xpath: //input[1]<----- was found
+10:20:16  INFO  manager.MyListener - 'Start find' element --->By.xpath: //input[2]
+10:20:16  INFO  manager.MyListener - The element with locator --->By.xpath: //input[2]<----- was found
+10:20:16  INFO  manager.MyListener - 'Start find' element --->By.xpath: //button[2]
+10:20:16  INFO  manager.MyListener - The element with locator --->By.xpath: //button[2]<----- was found
+10:20:16  INFO  manager.MyListener - 'Start find' element --->By.xpath: //*[text()='Sign Out']
+10:20:17  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()='Sign Out']<----- was found
